@@ -30,3 +30,5 @@ answer, including your reasoning, to this markdown file.
 ## Bonus
 
 Implement and analyze breadth-first search.
+
+Help: ChatGPT and Stackoverflow.com
